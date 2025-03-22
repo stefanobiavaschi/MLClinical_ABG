@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848984589177786663/b70f8befce5b439e92b277e1fe769968/artifacts
+end_time: 1733869907539
+entry_point_name: ''
+experiment_id: '848984589177786663'
+lifecycle_stage: active
+run_id: b70f8befce5b439e92b277e1fe769968
+run_name: zealous-swan-803
+run_uuid: b70f8befce5b439e92b277e1fe769968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733869861841
+status: 3
+tags: []
+user_id: stefanobiavaschi

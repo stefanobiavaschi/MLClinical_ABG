@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/1ca776db0f1d4b1fab323fa50858c979/artifacts
+end_time: 1724172562041
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: 1ca776db0f1d4b1fab323fa50858c979
+run_name: smiling-auk-935
+run_uuid: 1ca776db0f1d4b1fab323fa50858c979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724172500702
+status: 3
+tags: []
+user_id: BiavaschiStefano

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/952763eade4f431abcb8efc5ea6bd757/artifacts
+end_time: 1723971677774
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: 952763eade4f431abcb8efc5ea6bd757
+run_name: adaptable-wren-132
+run_uuid: 952763eade4f431abcb8efc5ea6bd757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723971573495
+status: 3
+tags: []
+user_id: BiavaschiStefano

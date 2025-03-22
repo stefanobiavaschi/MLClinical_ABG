@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725714266324
+current_stage: None
+description: ''
+last_updated_timestamp: 1725714266324
+name: 20240901_pycaret_5classi_undersamlping
+run_id: bf32c4d0b5d04580b6911e47821e5b6b
+run_link: ''
+source: mlflow-artifacts:/797001319649961951/bf32c4d0b5d04580b6911e47821e5b6b/artifacts/model_mlclinicalprob
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/797001319649961951/bf32c4d0b5d04580b6911e47821e5b6b/artifacts/model_mlclinicalprob
+user_id: null
+version: 1

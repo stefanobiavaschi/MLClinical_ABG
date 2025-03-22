@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/c0858c34850f4d569113079276520f6f/artifacts
+end_time: 1724175176180
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: c0858c34850f4d569113079276520f6f
+run_name: fun-penguin-83
+run_uuid: c0858c34850f4d569113079276520f6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724174996119
+status: 3
+tags: []
+user_id: BiavaschiStefano

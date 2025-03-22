@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733943801557
+current_stage: None
+description: ''
+last_updated_timestamp: 1733943801557
+name: 241211_pycaret
+run_id: b80d4c0d85cd4effb312e7270c82bf4d
+run_link: ''
+source: mlflow-artifacts:/848984589177786663/b80d4c0d85cd4effb312e7270c82bf4d/artifacts/model_mlclinicalprob
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/848984589177786663/b80d4c0d85cd4effb312e7270c82bf4d/artifacts/model_mlclinicalprob
+user_id: null
+version: 2

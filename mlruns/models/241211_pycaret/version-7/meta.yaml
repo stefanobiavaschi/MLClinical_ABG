@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733954345869
+current_stage: None
+description: ''
+last_updated_timestamp: 1733954345869
+name: 241211_Pycaret
+run_id: fb1a704d62ae4f0ea4055cbd84a74add
+run_link: ''
+source: mlflow-artifacts:/848984589177786663/fb1a704d62ae4f0ea4055cbd84a74add/artifacts/model_mlclinicalprob
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/848984589177786663/fb1a704d62ae4f0ea4055cbd84a74add/artifacts/model_mlclinicalprob
+user_id: null
+version: 7

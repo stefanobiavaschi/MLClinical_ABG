@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/0bb175c05fdd421eb86faf45a465a366/artifacts
+end_time: 1724424547931
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: 0bb175c05fdd421eb86faf45a465a366
+run_name: beautiful-pitbull
+run_uuid: 0bb175c05fdd421eb86faf45a465a366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724424246997
+status: 3
+tags: []
+user_id: BiavaschiStefano

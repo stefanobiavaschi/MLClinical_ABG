@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848984589177786663/18572c08f2804d66a602ae9f5d9cdd22/artifacts
+end_time: 1733945846447
+entry_point_name: ''
+experiment_id: '848984589177786663'
+lifecycle_stage: active
+run_id: 18572c08f2804d66a602ae9f5d9cdd22
+run_name: delicate-tern-689
+run_uuid: 18572c08f2804d66a602ae9f5d9cdd22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733945744263
+status: 3
+tags: []
+user_id: stefanobiavaschi

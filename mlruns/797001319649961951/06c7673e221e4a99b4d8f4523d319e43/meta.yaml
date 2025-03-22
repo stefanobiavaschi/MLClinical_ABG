@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/06c7673e221e4a99b4d8f4523d319e43/artifacts
+deleted_time: 1723971144240
+end_time: 1723970606757
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: deleted
+run_id: 06c7673e221e4a99b4d8f4523d319e43
+run_name: invincible-stag-623
+run_uuid: 06c7673e221e4a99b4d8f4523d319e43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723970500682
+status: 3
+tags: []
+user_id: BiavaschiStefano

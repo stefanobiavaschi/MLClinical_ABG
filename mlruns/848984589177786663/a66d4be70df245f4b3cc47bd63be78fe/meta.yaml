@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848984589177786663/a66d4be70df245f4b3cc47bd63be78fe/artifacts
+end_time: 1733943277443
+entry_point_name: ''
+experiment_id: '848984589177786663'
+lifecycle_stage: active
+run_id: a66d4be70df245f4b3cc47bd63be78fe
+run_name: big-sloth-263
+run_uuid: a66d4be70df245f4b3cc47bd63be78fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733943229058
+status: 3
+tags: []
+user_id: stefanobiavaschi

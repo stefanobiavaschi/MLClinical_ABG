@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725704795797
+current_stage: None
+description: ''
+last_updated_timestamp: 1725704795797
+name: 20240901_pycaret_5classi
+run_id: 6afe085fff8d46f5b122d7ef0b3a80ae
+run_link: ''
+source: mlflow-artifacts:/797001319649961951/6afe085fff8d46f5b122d7ef0b3a80ae/artifacts/model_mlclinicalprob
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/797001319649961951/6afe085fff8d46f5b122d7ef0b3a80ae/artifacts/model_mlclinicalprob
+user_id: null
+version: 1

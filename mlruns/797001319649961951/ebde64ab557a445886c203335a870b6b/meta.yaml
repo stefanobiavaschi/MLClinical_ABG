@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/ebde64ab557a445886c203335a870b6b/artifacts
+end_time: 1733777504284
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: ebde64ab557a445886c203335a870b6b
+run_name: masked-ape-719
+run_uuid: ebde64ab557a445886c203335a870b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733777442406
+status: 3
+tags: []
+user_id: stefanobiavaschi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/f90af66c272b4133abc6d67e3f767f7d/artifacts
+end_time: 1733777929057
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: f90af66c272b4133abc6d67e3f767f7d
+run_name: bustling-koi-523
+run_uuid: f90af66c272b4133abc6d67e3f767f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733777891284
+status: 3
+tags: []
+user_id: stefanobiavaschi

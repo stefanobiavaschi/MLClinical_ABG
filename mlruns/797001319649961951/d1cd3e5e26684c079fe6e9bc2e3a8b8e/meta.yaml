@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/d1cd3e5e26684c079fe6e9bc2e3a8b8e/artifacts
+end_time: 1724521001214
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: d1cd3e5e26684c079fe6e9bc2e3a8b8e
+run_name: languid-boar-171
+run_uuid: d1cd3e5e26684c079fe6e9bc2e3a8b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724520709927
+status: 4
+tags: []
+user_id: BiavaschiStefano

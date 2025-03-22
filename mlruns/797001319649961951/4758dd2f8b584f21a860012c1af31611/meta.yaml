@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/4758dd2f8b584f21a860012c1af31611/artifacts
+deleted_time: 1724424239910
+end_time: 1724424212946
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: deleted
+run_id: 4758dd2f8b584f21a860012c1af31611
+run_name: incongruous-mink-777
+run_uuid: 4758dd2f8b584f21a860012c1af31611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724424212880
+status: 4
+tags: []
+user_id: BiavaschiStefano

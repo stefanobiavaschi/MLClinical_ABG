@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848984589177786663/907d702d744b495ea7b6e9a2e494cff2/artifacts
+end_time: 1733944444928
+entry_point_name: ''
+experiment_id: '848984589177786663'
+lifecycle_stage: active
+run_id: 907d702d744b495ea7b6e9a2e494cff2
+run_name: nimble-skink-198
+run_uuid: 907d702d744b495ea7b6e9a2e494cff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733944387373
+status: 3
+tags: []
+user_id: stefanobiavaschi

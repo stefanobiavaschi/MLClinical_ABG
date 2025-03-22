@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/8e34af41af6944cb9c8619fe90ac9bad/artifacts
+end_time: 1724431337556
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: 8e34af41af6944cb9c8619fe90ac9bad
+run_name: smiling-worm-206
+run_uuid: 8e34af41af6944cb9c8619fe90ac9bad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724431093053
+status: 3
+tags: []
+user_id: BiavaschiStefano

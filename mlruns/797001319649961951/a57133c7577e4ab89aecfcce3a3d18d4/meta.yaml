@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/a57133c7577e4ab89aecfcce3a3d18d4/artifacts
+end_time: 1724172309912
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: a57133c7577e4ab89aecfcce3a3d18d4
+run_name: popular-worm-524
+run_uuid: a57133c7577e4ab89aecfcce3a3d18d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724172239327
+status: 3
+tags: []
+user_id: BiavaschiStefano

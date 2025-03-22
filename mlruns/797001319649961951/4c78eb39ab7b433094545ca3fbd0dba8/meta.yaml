@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/4c78eb39ab7b433094545ca3fbd0dba8/artifacts
+end_time: 1733781293129
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: 4c78eb39ab7b433094545ca3fbd0dba8
+run_name: colorful-calf-298
+run_uuid: 4c78eb39ab7b433094545ca3fbd0dba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733781214648
+status: 3
+tags: []
+user_id: stefanobiavaschi

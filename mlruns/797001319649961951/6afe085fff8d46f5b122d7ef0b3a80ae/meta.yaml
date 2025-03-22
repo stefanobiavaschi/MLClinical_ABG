@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/6afe085fff8d46f5b122d7ef0b3a80ae/artifacts
+end_time: 1725704821047
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: 6afe085fff8d46f5b122d7ef0b3a80ae
+run_name: suave-dove-741
+run_uuid: 6afe085fff8d46f5b122d7ef0b3a80ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725704695648
+status: 3
+tags: []
+user_id: stefanobiavaschi

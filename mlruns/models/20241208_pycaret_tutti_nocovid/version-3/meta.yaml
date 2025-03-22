@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733771447746
+current_stage: None
+description: ''
+last_updated_timestamp: 1733771447746
+name: 20241208_pycaret_tutti_nocovid
+run_id: ebc102d11fc947e48af99fc95b48a689
+run_link: ''
+source: mlflow-artifacts:/797001319649961951/ebc102d11fc947e48af99fc95b48a689/artifacts/model_mlclinicalprob
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/797001319649961951/ebc102d11fc947e48af99fc95b48a689/artifacts/model_mlclinicalprob
+user_id: null
+version: 3

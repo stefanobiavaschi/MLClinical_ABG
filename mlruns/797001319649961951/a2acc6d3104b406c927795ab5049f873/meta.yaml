@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/a2acc6d3104b406c927795ab5049f873/artifacts
+deleted_time: 1723970429319
+end_time: 1723970094951
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: deleted
+run_id: a2acc6d3104b406c927795ab5049f873
+run_name: delicate-shark-71
+run_uuid: a2acc6d3104b406c927795ab5049f873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723970094806
+status: 4
+tags: []
+user_id: BiavaschiStefano

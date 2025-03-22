@@ -1,0 +1,6 @@
+pycaret
+joblib==1.3.2 # Porco demonio
+xgboost
+openpyxl
+mlflow==2.15.1
+seaborn

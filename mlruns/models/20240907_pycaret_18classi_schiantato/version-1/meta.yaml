@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725728524781
+current_stage: None
+description: ''
+last_updated_timestamp: 1725728524781
+name: 20240907_pycaret_18classi_schiantato
+run_id: d7bf4c7e0563498fba9d5b040fa7ff19
+run_link: ''
+source: mlflow-artifacts:/797001319649961951/d7bf4c7e0563498fba9d5b040fa7ff19/artifacts/model_mlclinicalprob
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/797001319649961951/d7bf4c7e0563498fba9d5b040fa7ff19/artifacts/model_mlclinicalprob
+user_id: null
+version: 1

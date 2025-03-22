@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/c7969bec69c549f49024709753668cc3/artifacts
+end_time: 1733668045189
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: c7969bec69c549f49024709753668cc3
+run_name: peaceful-stork-849
+run_uuid: c7969bec69c549f49024709753668cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733667920567
+status: 3
+tags: []
+user_id: stefanobiavaschi

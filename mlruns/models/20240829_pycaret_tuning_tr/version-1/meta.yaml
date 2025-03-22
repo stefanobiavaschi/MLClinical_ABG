@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725222692623
+current_stage: None
+description: ''
+last_updated_timestamp: 1725222692623
+name: 20240829_pycaret_tuning_tr
+run_id: 4caa8d5ad623436a9c3760cd28fc769b
+run_link: ''
+source: mlflow-artifacts:/797001319649961951/4caa8d5ad623436a9c3760cd28fc769b/artifacts/model_mlclinicalprob
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/797001319649961951/4caa8d5ad623436a9c3760cd28fc769b/artifacts/model_mlclinicalprob
+user_id: null
+version: 1

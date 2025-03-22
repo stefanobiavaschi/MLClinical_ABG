@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848984589177786663/f1df3af0d75b456aa94737c96dc277f5/artifacts
+end_time: 1733953273561
+entry_point_name: ''
+experiment_id: '848984589177786663'
+lifecycle_stage: active
+run_id: f1df3af0d75b456aa94737c96dc277f5
+run_name: worried-chimp-758
+run_uuid: f1df3af0d75b456aa94737c96dc277f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733953242237
+status: 3
+tags: []
+user_id: stefanobiavaschi

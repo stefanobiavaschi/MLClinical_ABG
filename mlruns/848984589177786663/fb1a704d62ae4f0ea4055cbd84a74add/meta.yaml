@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848984589177786663/fb1a704d62ae4f0ea4055cbd84a74add/artifacts
+end_time: 1733954349322
+entry_point_name: ''
+experiment_id: '848984589177786663'
+lifecycle_stage: active
+run_id: fb1a704d62ae4f0ea4055cbd84a74add
+run_name: rumbling-kit-115
+run_uuid: fb1a704d62ae4f0ea4055cbd84a74add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733954321174
+status: 3
+tags: []
+user_id: stefanobiavaschi

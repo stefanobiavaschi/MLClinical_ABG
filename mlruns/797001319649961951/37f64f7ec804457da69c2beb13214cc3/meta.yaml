@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/37f64f7ec804457da69c2beb13214cc3/artifacts
+deleted_time: 1724431084996
+end_time: 1724430816998
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: deleted
+run_id: 37f64f7ec804457da69c2beb13214cc3
+run_name: welcoming-ape-930
+run_uuid: 37f64f7ec804457da69c2beb13214cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724430546818
+status: 4
+tags: []
+user_id: BiavaschiStefano

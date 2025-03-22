@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848984589177786663/9163eabb4d7748dcb19a323887425d4b/artifacts
+end_time: 1733870459591
+entry_point_name: ''
+experiment_id: '848984589177786663'
+lifecycle_stage: active
+run_id: 9163eabb4d7748dcb19a323887425d4b
+run_name: brawny-flea-0
+run_uuid: 9163eabb4d7748dcb19a323887425d4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733870415695
+status: 3
+tags: []
+user_id: stefanobiavaschi

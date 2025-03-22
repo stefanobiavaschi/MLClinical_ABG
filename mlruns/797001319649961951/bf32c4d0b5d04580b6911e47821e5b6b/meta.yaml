@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/bf32c4d0b5d04580b6911e47821e5b6b/artifacts
+end_time: 1725714289535
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: bf32c4d0b5d04580b6911e47821e5b6b
+run_name: adorable-pug-279
+run_uuid: bf32c4d0b5d04580b6911e47821e5b6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725714162982
+status: 3
+tags: []
+user_id: stefanobiavaschi

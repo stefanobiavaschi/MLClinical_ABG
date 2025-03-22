@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848984589177786663/a5b9bbde1288463e894fb59d576589b7/artifacts
+end_time: 1733871123057
+entry_point_name: ''
+experiment_id: '848984589177786663'
+lifecycle_stage: active
+run_id: a5b9bbde1288463e894fb59d576589b7
+run_name: exultant-cat-724
+run_uuid: a5b9bbde1288463e894fb59d576589b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733871035551
+status: 3
+tags: []
+user_id: stefanobiavaschi

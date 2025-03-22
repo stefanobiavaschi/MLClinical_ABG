@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/d6fb6af2540f497797c7679a6f6cf21f/artifacts
+end_time: 1726318890621
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: d6fb6af2540f497797c7679a6f6cf21f
+run_name: sedate-jay-467
+run_uuid: d6fb6af2540f497797c7679a6f6cf21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726314095004
+status: 3
+tags: []
+user_id: marco.codazzi

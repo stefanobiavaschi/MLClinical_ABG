@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/4caa8d5ad623436a9c3760cd28fc769b/artifacts
+end_time: 1725222717880
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: 4caa8d5ad623436a9c3760cd28fc769b
+run_name: unique-rook-55
+run_uuid: 4caa8d5ad623436a9c3760cd28fc769b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725222569149
+status: 3
+tags: []
+user_id: stefanobiavaschi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/ebc102d11fc947e48af99fc95b48a689/artifacts
+end_time: 1733771456133
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: ebc102d11fc947e48af99fc95b48a689
+run_name: skittish-sheep-845
+run_uuid: ebc102d11fc947e48af99fc95b48a689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733771403877
+status: 3
+tags: []
+user_id: stefanobiavaschi

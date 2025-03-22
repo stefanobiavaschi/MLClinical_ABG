@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/86ba963d04f44785ac9255120119a754/artifacts
+deleted_time: 1725700750091
+end_time: 1725700479611
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: deleted
+run_id: 86ba963d04f44785ac9255120119a754
+run_name: smiling-skunk-261
+run_uuid: 86ba963d04f44785ac9255120119a754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725700354628
+status: 3
+tags: []
+user_id: stefanobiavaschi

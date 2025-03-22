@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/22fdcab5557e47eda4ce98f86decae67/artifacts
+end_time: 1733770446436
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: 22fdcab5557e47eda4ce98f86decae67
+run_name: rebellious-mare-687
+run_uuid: 22fdcab5557e47eda4ce98f86decae67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733770402563
+status: 3
+tags: []
+user_id: stefanobiavaschi

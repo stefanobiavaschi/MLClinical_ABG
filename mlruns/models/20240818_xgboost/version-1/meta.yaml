@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723970591732
+current_stage: None
+description: ''
+last_updated_timestamp: 1723970591732
+name: 20240818_xgboost
+run_id: 06c7673e221e4a99b4d8f4523d319e43
+run_link: ''
+source: mlflow-artifacts:/797001319649961951/06c7673e221e4a99b4d8f4523d319e43/artifacts/model_mlclinicalprob
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/797001319649961951/06c7673e221e4a99b4d8f4523d319e43/artifacts/model_mlclinicalprob
+user_id: null
+version: 1

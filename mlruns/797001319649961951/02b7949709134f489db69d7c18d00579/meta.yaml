@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797001319649961951/02b7949709134f489db69d7c18d00579/artifacts
+end_time: 1723972103003
+entry_point_name: ''
+experiment_id: '797001319649961951'
+lifecycle_stage: active
+run_id: 02b7949709134f489db69d7c18d00579
+run_name: suave-swan-11
+run_uuid: 02b7949709134f489db69d7c18d00579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723972019084
+status: 3
+tags: []
+user_id: BiavaschiStefano

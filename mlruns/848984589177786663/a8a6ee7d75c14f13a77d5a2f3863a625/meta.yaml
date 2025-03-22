@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848984589177786663/a8a6ee7d75c14f13a77d5a2f3863a625/artifacts
+end_time: 1733954931984
+entry_point_name: ''
+experiment_id: '848984589177786663'
+lifecycle_stage: active
+run_id: a8a6ee7d75c14f13a77d5a2f3863a625
+run_name: rogue-squirrel-151
+run_uuid: a8a6ee7d75c14f13a77d5a2f3863a625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733954886083
+status: 3
+tags: []
+user_id: stefanobiavaschi

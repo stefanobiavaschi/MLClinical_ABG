@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1725700455728
+current_stage: None
+description: ''
+last_updated_timestamp: 1725700455728
+name: 20240901_pycaret_test_bilanciamentosecco
+run_id: 86ba963d04f44785ac9255120119a754
+run_link: ''
+source: mlflow-artifacts:/797001319649961951/86ba963d04f44785ac9255120119a754/artifacts/model_mlclinicalprob
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/797001319649961951/86ba963d04f44785ac9255120119a754/artifacts/model_mlclinicalprob
+user_id: null
+version: 1

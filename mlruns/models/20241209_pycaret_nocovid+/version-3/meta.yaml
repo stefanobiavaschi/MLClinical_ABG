@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733781279725
+current_stage: None
+description: ''
+last_updated_timestamp: 1733781279725
+name: 20241209_pycaret_nocovid+
+run_id: 4c78eb39ab7b433094545ca3fbd0dba8
+run_link: ''
+source: mlflow-artifacts:/797001319649961951/4c78eb39ab7b433094545ca3fbd0dba8/artifacts/model_mlclinicalprob
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/797001319649961951/4c78eb39ab7b433094545ca3fbd0dba8/artifacts/model_mlclinicalprob
+user_id: null
+version: 3
